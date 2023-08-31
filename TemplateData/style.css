@@ -8,6 +8,10 @@ body {
     position: absolute
 }
 
+canvas:focus {
+    outline: none;
+}
+
 #unity-container.unity-desktop {
     left: 50%;
     top: 50%;
